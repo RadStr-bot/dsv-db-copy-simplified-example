@@ -1,10 +1,10 @@
 {
-  "identifier": "8768dc08-8b52-48df-beb1-f7f934a346c1",
+  "identifier": "4fcaa538-4c07-4910-bca3-fbe0956008b6",
   "version": 1,
   "type": "http://dataspecer.com/resources/local/visual-model",
   "entities": [
     {
-      "identifier": "8768dc08-8b52-48df-beb1-f7f934a346c1-model-metadata-entity",
+      "identifier": "4fcaa538-4c07-4910-bca3-fbe0956008b6-model-metadata-entity",
       "type": [
         "entity-model-type"
       ],
@@ -13,7 +13,7 @@
       }
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/00cf4f23-78c4-40ac-9248-076b8d1de4b1/e267c560-5de9-4e86-9443-86c5dfa9070d",
+      "model": "769a1060-305e-4d87-883f-35cf04317305",
       "representedEntity": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
       "position": {
         "x": 0,
@@ -28,7 +28,7 @@
       "identifier": "lrjbg"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/00cf4f23-78c4-40ac-9248-076b8d1de4b1/0c7bc24d-f4c1-4eb0-86d4-ad1cade19687",
+      "model": "837d68b3-b01c-4a5a-8e6e-0e2bf47fb9a4",
       "representedRelationship": "http://www.w3.org/2000/01/rdf-schema#subPropertyOf",
       "waypoints": [
         {
@@ -50,7 +50,7 @@
       "identifier": "5js0z"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/00cf4f23-78c4-40ac-9248-076b8d1de4b1/20892edc-dd65-4a14-91e5-687f4db85d50",
+      "model": "6b633932-2878-4a45-b7d8-6378442843f1",
       "representedRelationship": "http://www.w3.org/2002/07/owl#propertyDisjointWith",
       "waypoints": [
         {
@@ -72,7 +72,7 @@
       "identifier": "tr7ms"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/00cf4f23-78c4-40ac-9248-076b8d1de4b1/20892edc-dd65-4a14-91e5-687f4db85d50",
+      "model": "6b633932-2878-4a45-b7d8-6378442843f1",
       "representedRelationship": "http://www.w3.org/2002/07/owl#equivalentProperty",
       "waypoints": [
         {
@@ -94,7 +94,7 @@
       "identifier": "m51o1"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/00cf4f23-78c4-40ac-9248-076b8d1de4b1/e267c560-5de9-4e86-9443-86c5dfa9070d",
+      "model": "769a1060-305e-4d87-883f-35cf04317305",
       "representedEntity": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement",
       "position": {
         "x": 0,
@@ -109,7 +109,7 @@
       "identifier": "gmtl5"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/00cf4f23-78c4-40ac-9248-076b8d1de4b1/e267c560-5de9-4e86-9443-86c5dfa9070d",
+      "model": "769a1060-305e-4d87-883f-35cf04317305",
       "representedEntity": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag",
       "position": {
         "x": -290,
@@ -124,7 +124,7 @@
       "identifier": "n3222g"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/00cf4f23-78c4-40ac-9248-076b8d1de4b1/e267c560-5de9-4e86-9443-86c5dfa9070d",
+      "model": "769a1060-305e-4d87-883f-35cf04317305",
       "representedEntity": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq",
       "position": {
         "x": 0,
@@ -139,7 +139,7 @@
       "identifier": "n867z"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/00cf4f23-78c4-40ac-9248-076b8d1de4b1/e267c560-5de9-4e86-9443-86c5dfa9070d",
+      "model": "769a1060-305e-4d87-883f-35cf04317305",
       "representedEntity": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Alt",
       "position": {
         "x": 300,
@@ -154,7 +154,7 @@
       "identifier": "puxbj"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/00cf4f23-78c4-40ac-9248-076b8d1de4b1/e267c560-5de9-4e86-9443-86c5dfa9070d",
+      "model": "769a1060-305e-4d87-883f-35cf04317305",
       "representedEntity": "http://www.w3.org/1999/02/22-rdf-syntax-ns#List",
       "position": {
         "x": 0,
@@ -169,7 +169,7 @@
       "identifier": "orofm"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/00cf4f23-78c4-40ac-9248-076b8d1de4b1/e267c560-5de9-4e86-9443-86c5dfa9070d",
+      "model": "769a1060-305e-4d87-883f-35cf04317305",
       "representedRelationship": "http://www.w3.org/1999/02/22-rdf-syntax-ns#rest",
       "waypoints": [
         {
@@ -191,7 +191,7 @@
       "identifier": "h3e88"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/00cf4f23-78c4-40ac-9248-076b8d1de4b1/e267c560-5de9-4e86-9443-86c5dfa9070d",
+      "model": "769a1060-305e-4d87-883f-35cf04317305",
       "representedEntity": "http://www.w3.org/1999/02/22-rdf-syntax-ns#CompoundLiteral",
       "position": {
         "x": 0,
@@ -212,7 +212,7 @@
       "type": [
         "http://dataspecer.com/resources/local/visual-model"
       ],
-      "representedModel": "http://dataspecer.com/packages/local-root/00cf4f23-78c4-40ac-9248-076b8d1de4b1/e267c560-5de9-4e86-9443-86c5dfa9070d",
+      "representedModel": "769a1060-305e-4d87-883f-35cf04317305",
       "color": "#B0FC7F",
       "identifier": "j2o1e"
     }
